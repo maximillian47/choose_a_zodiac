@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+header footer{
+    background-color: rgb(13,27, 36);
+    color: rgb(127, 219, 150);
+    text-align: center; 
+    padding: 4mm; 
+    margin: 3mm;
+    font-size: 15pt;
+}
+
+li {
+    border: solid rgb(44, 77, 199) 2px;
+    display: inline-block;
+    padding: 9px; 
+    margin: 15px 35px;
+}
+
+section { 
+    color: blue;
+    border: 10px; color: rgb(18, 93, 200); 
+    margin: 8px 8px;
+    display: inline-block;
+}
+
+img {
+    border: 6px; color: rgb(89, 93, 250);
+    margin: 16px;
+}
+
+p{
+    display: inline-block;
+    width: 375px;
+}
+
